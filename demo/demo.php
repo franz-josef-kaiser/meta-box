@@ -8,7 +8,7 @@
  * You also should read the changelog to know what has been changed before updating.
  *
  * For more information, please visit:
- * @link @link http://www.deluxeblogtips.com/meta-box/docs/define-meta-boxes
+ * @link http://www.deluxeblogtips.com/meta-box/docs/define-meta-boxes
  */
 
 /********************* META BOX DEFINITIONS ***********************/
